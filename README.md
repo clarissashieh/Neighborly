@@ -22,17 +22,24 @@ Neighborly connects individuals in need of help to others who are willing to pro
 
 The landing page consists of a login option, sign-up option, and help button. To begin using the app, the user signs up with his/her information. Depending on whether they are signing up as someone in need of help, or a volunteer, different information must be provided. 
 <p align="center">
-  <img width="352" alt="Screenshot 2024-07-24 at 5 18 20 PM" src="https://github.com/user-attachments/assets/8c1a9690-c8bd-4cdc-b206-a275d796d58a">
+  <img width="200" alt="Screenshot 2024-07-24 at 5 24 32 PM" src="https://github.com/user-attachments/assets/a78f2b5c-3a37-4657-b289-65d0b0e6ad77">
+  <img width="200" alt="Screenshot 2024-07-24 at 5 24 41 PM" src="https://github.com/user-attachments/assets/a045fa94-40ea-4777-80c7-69309d60aceb">
+  <img width="224" alt="Screenshot 2024-07-24 at 5 25 15 PM" src="https://github.com/user-attachments/assets/1eec0d86-c843-4947-9a17-3e9d53bf3e6f">
+  <img width="203" alt="Screenshot 2024-07-24 at 5 25 01 PM" src="https://github.com/user-attachments/assets/4a51c8e5-7b0b-4d01-8ad9-a4d998f6ae8f">
 </p>
 
 When the “I want to help” option is selected, this means that the user wants to volunteer. A sign-up page is displayed, requiring an input of email, phone number, name, zip code, the distance they are willing to travel, which is selected with a drop-down menu, and an option to select the errands that they are willing to assist with. 
 <p align="center">
-  <img width="343" alt="Screenshot 2024-07-24 at 5 18 36 PM" src="https://github.com/user-attachments/assets/4a391d9c-a79b-4574-91ea-651251b740c4">
+  <img width="200" alt="Screenshot 2024-07-24 at 5 25 59 PM" src="https://github.com/user-attachments/assets/607d81b1-c605-4216-8532-893dfcf50a7a">
 </p>
 
 If “need help” is selected, the user is asked to provide their email, phone number, name, zip-code, the distance they would like their helper to be, and the tasks they need assistance with. Additionally, during the sign-up process of someone who needs help, there is a voice-to-text feature, along with other audio features. This elderly-friendly feature eliminates the need to type on a small keyboard.
 <p align="center">
-  <img width="345" alt="Screenshot 2024-07-24 at 5 18 28 PM" src="https://github.com/user-attachments/assets/9ca5bb1d-8dbf-4d69-86dc-ed68325e71a5">
+  <img width="200" alt="Screenshot 2024-07-24 at 5 25 24 PM" src="https://github.com/user-attachments/assets/21f8ac23-15fd-4e73-83d2-c09485dc70bc">
 </p>
 
 Once the “need help” sign-up is complete, the elder can use the built-in search engine to find a nearby volunteer that can help with their individual needs. All of this data is saved on an external database (Firebase). Only elders can seek out caregivers as a security feature for scam/fraud prevention. Once a volunteer is selected, the elder and caregiver will be in contact with one another in order to organize their logistics. 
+<p align="center">
+  <img width="201" alt="Screenshot 2024-07-24 at 5 25 39 PM" src="https://github.com/user-attachments/assets/98251e04-ca47-4af3-a183-3bfc5ccc85a9">
+  <img width="200" alt="Screenshot 2024-07-24 at 5 25 49 PM" src="https://github.com/user-attachments/assets/f8044119-3877-4947-b83e-2c9d5d13e862">
+</p>
