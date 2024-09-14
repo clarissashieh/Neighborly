@@ -1,22 +1,39 @@
-**Read full business plan here: https://docs.google.com/document/d/14ZlIXG17rH2oVyKz_UBk8uoG04dsF2Z23CId3YhNVqI/edit?usp=sharing**
+<h1>9/14/24 App Redesign</h1>
+
+See below for prototype of redesign:
+
+Figma prototype: https://www.figma.com/proto/jqow8GYvxA0fnwcEeBfuBC/Neighborly?node-id=8-657&node-type=canvas&t=5USnlJa5Bx3ImBxd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
+
+<h3>Senior view</h3>
+
+<https://github.com/user-attachments/assets/1a45aa0d-cece-4660-a0a3-df39e7141fb3>
+
+<h3>Volunteer view</h3>
+
+<https://github.com/user-attachments/assets/f578ae80-13b5-4077-9896-67a07e1cbe3a>
+
+
+*************************
+<h1>Technovation 2020</h1>
+<h2>Read full business plan here: https://docs.google.com/document/d/14ZlIXG17rH2oVyKz_UBk8uoG04dsF2Z23CId3YhNVqI/edit?usp=sharing</h2>
 
 <p align="center">
   <img width="736" alt="Screenshot 2024-07-24 at 5 14 26 PM" src="https://github.com/user-attachments/assets/759a435b-34dd-49c8-bd22-d460abbd0c3d">
 </p>
 
-**Team Appodidae: Christina Cheng, Claire Suvari, Clarissa Shieh, Sofia Hofmann, and Marina Xanthopoulos, MENTOR: Christine Hemiup**
+<h2>Team Appodidae: Christina Cheng, Claire Suvari, Clarissa Shieh, Sofia Hofmann, and Marina Xanthopoulos, MENTOR: Christine Hemiup</h2>
 
-**THE PROBLEM**
+<h3>THE PROBLEM</h3>
 
 Have you been worried about your out-of-state parents or grandparents because they couldn’t get to the grocery store due to the pandemic or other health reasons? Have you had sleepless nights as you wonder how they may get help? This is a familiar scenario to many. During the COVID-19 pandemic, while some have had greater flexibility in going out and completing necessary tasks, immunocompromised and elderly citizens have been required to remain in the confines of their homes. This means that they struggle to complete their own daily tasks. These tasks may include going grocery shopping, pharmacy pick-ups, dry-cleaning, etc. Some are also in need of tech support for both appointment scheduling and/or simply communicating with family members. 
 
 Or, have you ever wanted to help your elderly neighbors but wondered who needs help and how to get in touch? This is another common question people have been wondering. Many neighbors are interested in helping but are unsure how to, as there is no place where individuals can find the answer to that question.
 
-**OUR PRODUCT**
+<h3>OUR PRODUCT</h3>
 
 Our app connects neighbors. It matches volunteers with those who are in need of help. As defined in the Oxford Dictionary, “neighborly” means having the “characteristic of a good neighbor, especially helpful, friendly, or kind.” This definition is the basis for our app. It connects people locally and relies on people’s kindness to help others.
 
-**DESCRIPTION**
+<h3>DESCRIPTION</h3>
 
 Neighborly connects individuals in need of help to others who are willing to provide help. The app is designed with the goal of simplicity in order for those less comfortable with technology to still be able to use it. After a couple of taps or a simple sign-up process, users will be connected and ready to go.
 
