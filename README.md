@@ -4,16 +4,23 @@ See below for prototype of redesign:
 
 Figma prototype: https://www.figma.com/proto/jqow8GYvxA0fnwcEeBfuBC/Neighborly?node-id=8-657&node-type=canvas&t=5USnlJa5Bx3ImBxd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
 
-<h3>Senior view</h3>
-
-<https://github.com/user-attachments/assets/1a45aa0d-cece-4660-a0a3-df39e7141fb3>
-
-<h3>Volunteer view</h3>
-
-<https://github.com/user-attachments/assets/f578ae80-13b5-4077-9896-67a07e1cbe3a>
-
+<table align="center">
+<tr>
+<th>Senior View</th>
+<th>Volunteer View</th>
+</tr>
+<tr>
+<td>
+  <video src="https://github.com/user-attachments/assets/1a45aa0d-cece-4660-a0a3-df39e7141fb3"></video>
+</td>
+<td>
+  <video src="https://github.com/user-attachments/assets/f578ae80-13b5-4077-9896-67a07e1cbe3a"></video>
+</td>
+</tr>
+</table>
 
 *************************
+
 <h1>Technovation 2021</h1>
 <h2>Read full business plan here: https://docs.google.com/document/d/14ZlIXG17rH2oVyKz_UBk8uoG04dsF2Z23CId3YhNVqI/edit?usp=sharing</h2>
 
