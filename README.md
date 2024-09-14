@@ -14,7 +14,7 @@ Figma prototype: https://www.figma.com/proto/jqow8GYvxA0fnwcEeBfuBC/Neighborly?n
 
 
 *************************
-<h1>Technovation 2020</h1>
+<h1>Technovation 2021</h1>
 <h2>Read full business plan here: https://docs.google.com/document/d/14ZlIXG17rH2oVyKz_UBk8uoG04dsF2Z23CId3YhNVqI/edit?usp=sharing</h2>
 
 <p align="center">
