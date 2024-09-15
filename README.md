@@ -1,8 +1,15 @@
 <h1>9/14/24 App Redesign</h1>
 
-See below for prototype of redesign:
+Updates:
 
-Figma prototype: https://www.figma.com/proto/jqow8GYvxA0fnwcEeBfuBC/Neighborly?node-id=8-657&node-type=canvas&t=5USnlJa5Bx3ImBxd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
+* New refined, minimalistic design designed to avoid any confusion for seniors with fonts with easier readability
+* Larger buttons with high contrast (to background and each other) to prevent seniors from confusing buttons or clicking on wrong button
+* Sign-up form separated into one question per page to simplify process for seniors and avoid clutter that can be difficult to navigate
+* Short, to the point questions with keyword highlighted
+* Removed need to login to streamline process of using app
+* Streamlined sign-up form by removing need to input county or zip code, which can be found through the user's inputted city 
+
+See below for prototype of redesign:
 
 <table align="center">
 <tr>
@@ -18,6 +25,8 @@ Figma prototype: https://www.figma.com/proto/jqow8GYvxA0fnwcEeBfuBC/Neighborly?n
 </td>
 </tr>
 </table>
+
+Figma prototype: https://www.figma.com/proto/jqow8GYvxA0fnwcEeBfuBC/Neighborly?node-id=8-657&node-type=canvas&t=5USnlJa5Bx3ImBxd-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
 
 *************************
 
