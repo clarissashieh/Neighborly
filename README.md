@@ -4,6 +4,7 @@ Updates:
 
 * New refined, minimalistic design designed to avoid any confusion for seniors with fonts with easier readability
 * Larger buttons with high contrast (to background and each other) to prevent seniors from confusing buttons or clicking on wrong button
+* Changed "I need help" and "I want to help" to "Senior" and "Volunteer" for better usability
 * Sign-up form separated into one question per page to simplify process for seniors and avoid clutter that can be difficult to navigate
 * Short, to the point questions with keyword highlighted
 * Removed need to login to streamline process of using app
